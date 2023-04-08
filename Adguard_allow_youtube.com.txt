@@ -1,0 +1,6 @@
+!
+! Title: Adguard_allow_youtube.com
+! Description: Allow Youtube.com through DNS Filter
+! Homepage: https://github.com/ZuuLAutomation/Adguard-DNSFilter
+!
+||youtube.com^
